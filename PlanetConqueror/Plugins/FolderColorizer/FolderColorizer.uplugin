@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FolderColorizer",
+	"Description": "Creates additional options for customizing the appearance of content browser folders",
+	"Category": "Other",
+	"CreatedBy": " Victoria Lyons",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6f3e612bc230423ea5cede4b3d856568",
+	"SupportURL": "",
+	"EngineVersion": [ "4.27.0", "4.27.0", "5.1.0", "5.1.1", "5.2.0" ],
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "FolderColorizer",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}

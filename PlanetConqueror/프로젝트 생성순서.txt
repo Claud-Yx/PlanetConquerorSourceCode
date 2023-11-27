@@ -1,0 +1,4 @@
+1) 언리얼엔진 5.1 버젼 설치
+2) PlanetConqueror.uproject 우클릭 -> Switch Unreal Engine Version -> 5.1 또는 엔진 소스코드 빌드 위치
+3) PlanetConqueror.uproject 우클릭 -> Generate Visual Studio Project Files
+4) 솔루션 파일(sln) 실행 후 PlanetConqueror 프로젝트 빌드
